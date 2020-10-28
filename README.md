@@ -19,10 +19,10 @@ An blue inspired theme perfect for dark theme lovers
 
 ## Contributing
 
-See something strange? Please report [here](https://github.com/whizkydee/vscode-palenight-theme/issues). A screenshot would be great for clarification purposes. Also, you might want to check out the [contributing guide](https://github.com/whizkydee/vscode-palenight-theme/blob/master/contributing.md).
+See something strange? Please report [here](https://github.com/stefaneacsu147/moody-blue/issues). A screenshot would be great for clarification purposes.
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
+This theme is released under the [MIT License](https://github.com/stefaneacsu147/moody-blue/blob/main/LICENSE.md).
 
-✨ Designed by **[Stefan Neacsu](https://neacsustefan.com)** in **[Barcelona, Spain](https://www.google.com/maps/place/Lagos)**. Contact me on **[website](https://neacsustefan.com)** ✨
+✨ Designed by **[Stefan Neacsu](https://neacsustefan.com)** in **[Barcelona, Spain](https://www.google.com/maps/place/Lagos)**. Feel free to contact me on my **[website](https://neacsustefan.com)** ✨

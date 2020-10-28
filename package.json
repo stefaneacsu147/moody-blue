@@ -1,0 +1,36 @@
+{
+    "name": "moody-dark",
+    "publisher": "stefaneacsu",
+    "author": "Stefan Neacsu <stefaneacsu@gmail.com> (https://neacsustefan.com)",
+    "displayName": "Moody Blue",
+    "description": "Visually pleasing theme with blue nuances",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "galleryBanner": {
+        "color": "#1f4287",
+        "theme": "dark"
+    },
+    "keywords": [
+        "material theme",
+        "palenight",
+        "material",
+        "blue",
+        "dark",
+        "midnight blue"
+      ],
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moody Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Moody Blue-color-theme.json"
+            }
+        ]
+    }
+}

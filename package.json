@@ -12,6 +12,7 @@
         "color": "#1f4287",
         "theme": "dark"
     },
+    "icon": "icon.png",
     "keywords": [
         "material theme",
         "palenight",
@@ -19,7 +20,7 @@
         "blue",
         "dark",
         "midnight blue"
-      ],
+    ],
     "categories": [
         "Themes",
         "Other"
@@ -29,7 +30,7 @@
             {
                 "label": "Moody Blue",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Moody Blue-color-theme.json"
+                "path": "./themes/Moody Dark-color-theme.json"
             }
         ]
     }

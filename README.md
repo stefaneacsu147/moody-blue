@@ -6,7 +6,7 @@ An blue inspired theme perfect for dark theme lovers
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
-![theme preview](https://i.imgur.com/G3KSdGo.png)
+![theme preview](https://i.imgur.com/lANbUUd.png)
 
 </div>
 

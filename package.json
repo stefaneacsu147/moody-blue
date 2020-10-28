@@ -4,7 +4,7 @@
     "author": "Stefan Neacsu <stefaneacsu@gmail.com> (https://neacsustefan.com)",
     "displayName": "Moody Blue",
     "description": "Visually pleasing theme with blue nuances",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.50.0"
     },

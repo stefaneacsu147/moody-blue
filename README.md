@@ -2,7 +2,7 @@
 
 # Moody Blue Theme
 
-An blue inspired theme perfect for dark theme lovers
+A blue inspired theme perfect for dark theme lovers
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
@@ -24,5 +24,3 @@ See something strange? Please report [here](https://github.com/stefaneacsu147/mo
 ## License
 
 This theme is released under the [MIT License](https://github.com/stefaneacsu147/moody-blue/blob/main/LICENSE.md).
-
-✨ Designed by **[Stefan Neacsu](https://neacsustefan.com)** in **[Barcelona, Spain](https://www.google.com/maps/place/Lagos)**. Feel free to contact me on my **[website](https://neacsustefan.com)** ✨
